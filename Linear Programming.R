@@ -1,3 +1,6 @@
+#HARIS RISKI RAKHMAN
+#SOAL NOMER 2
+#18523113
 
 # Import lpSolve package
 library(lpSolve)
